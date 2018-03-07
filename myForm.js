@@ -5,7 +5,7 @@ $(document).ready(function() {
     */
   var otps = {
     'form': {
-      'method': 'k',
+      'method': 'GET',
       'action': ''
     },
     'config': [
