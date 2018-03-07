@@ -1,0 +1,25 @@
+{
+  "name": "plugin-form-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musps/jq-plugin-form-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musps/jq-plugin-form-generator/issues"
+  },
+  "homepage": "https://github.com/musps/jq-plugin-form-generator#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2"
+  }
+}
