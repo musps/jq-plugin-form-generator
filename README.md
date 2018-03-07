@@ -10,7 +10,7 @@ $(document).ready(function() {
     */
   var otps = {
     'form': {
-      'method': 'get',
+      'method': 'GET',
       'action': ''
     },
     'config': [
